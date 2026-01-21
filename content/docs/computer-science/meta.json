@@ -1,0 +1,13 @@
+{
+  "title": "Computer Science",
+  "description": "Programming Garden",
+  "icon": "Bot",
+  "pages": [
+    "---Introduction---",
+    "quick-start",
+    "what-is-linking-tao",
+    "---Notes---",
+    "..."
+  ],
+  "root": true
+}
