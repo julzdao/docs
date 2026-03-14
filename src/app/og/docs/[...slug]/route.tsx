@@ -17,7 +17,7 @@ export async function GET(
     <DefaultImage
       title={page.data.title}
       description={page.data.description}
-      site="Linking Tao"
+      site="FarmOrchestra"
     />,
     {
       width: 1200,
